@@ -1,0 +1,5 @@
+﻿  date.c
+E:\CLass Work\extension\Date\Date\date.c(32,2): warning C4033: “Judge”必须返回值
+E:\CLass Work\extension\Date\Date\date.c(33): warning C4715: “Judge”: 不是所有的控件路径都返回值
+E:\CLass Work\extension\Date\Date\date.c(71): warning C4715: “Statistical”: 不是所有的控件路径都返回值
+  Date.vcxproj -> E:\CLass Work\extension\Date\x64\Debug\Date.exe
